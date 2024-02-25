@@ -1,6 +1,8 @@
 ## **Projeto Portfolio**
 
 ![image](https://github.com/gsoaresdz/portfolio/assets/69989654/d696fb23-20ec-4adc-b9ab-caaaf20ef89c)
+![image](https://github.com/gsoaresdz/portfolio/assets/69989654/1c2dd07e-52a1-454f-9a5f-4840a9045dec)
+
 
 ### **Descrição**
 
