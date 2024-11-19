@@ -1,84 +1,66 @@
-<h1 align="center">Portfólio</h1>
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/portfolio?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/portfolio?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/portfolio?color=56BEB8">
-  <!--<img alt="License" src="https://img.shields.io/github/license/usuario/portfolio?color=56BEB8">-->
-</p>
-<p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/usuario" target="_blank">Autor</a>
-</p>
-<br>
+<h1 align="center">Portfolio</h1> <p align="center"> <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/portfolio?color=56BEB8"> <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/portfolio?color=56BEB8"> <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/portfolio?color=56BEB8"> <!--<img alt="License" src="https://img.shields.io/github/license/user/portfolio?color=56BEB8">--> </p> <p align="center"> <a href="#dart-about">About</a> &#xa0; | &#xa0; <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0; <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0; <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0; <a href="#memo-license">License</a> &#xa0; | &#xa0; <a href="https://github.com/user" target="_blank">Author</a> </p> <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-Este projeto consiste em um portfólio web desenvolvido utilizando HTML e CSS. O objetivo é apresentar informações profissionais e educacionais de forma organizada e visualmente atrativa.
+This project is a web portfolio developed using HTML and CSS. The goal is to present professional and educational information in an organized and visually appealing manner.
 
-## **:memo: Estrutura do Projeto**
+## **:memo: Project Structure**
 
-O projeto está organizado da seguinte forma:
+The project is organized as follows:
 
-- **index.html**: Página principal do portfólio.
-- **css/**: Diretório contendo os arquivos CSS para estilização da página.
-    - **experiencia.css**: Estilos para a seção de experiência.
-    - **footer.css**: Estilos para o rodapé.
-    - **formacao.css**: Estilos para a seção de formação.
-    - **global.css**: Estilos globais utilizados em toda a página.
-    - **header.css**: Estilos para o cabeçalho.
-    - **introducao.css**: Estilos para a introdução.
-    - **style.css**: Estilos gerais.
-- **img/**: Diretório contendo as imagens utilizadas no portfólio.
+- **index.html**: Main portfolio page.
+- **css/**: Directory containing the CSS files for styling the page.
+    - **experience.css**: Styles for the experience section.
+    - **footer.css**: Styles for the footer.
+    - **education.css**: Styles for the education section.
+    - **global.css**: Global styles used throughout the page.
+    - **header.css**: Styles for the header.
+    - **introduction.css**: Styles for the introduction.
+    - **style.css**: General styles.
+- **img/**: Directory containing the images used in the portfolio.
 
 ## **:sparkles: Features**
 
-:heavy_check_mark: **Feature 1**: Página principal com informações de introdução.
+:heavy_check_mark: **Feature 1**: Main page with introduction information.
 
-:heavy_check_mark: **Feature 2**: Seção de experiência profissional detalhada.
+:heavy_check_mark: **Feature 2**: Detailed professional experience section.
 
-:heavy_check_mark: **Feature 3**: Seção de formação acadêmica e cursos.
+:heavy_check_mark: **Feature 3**: Academic background and courses section.
 
-:heavy_check_mark: **Feature 4**: Rodapé com informações de contato.
+:heavy_check_mark: **Feature 4**: Footer with contact information.
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-As seguintes ferramentas foram usadas neste projeto:
+The following tools were used in this project:
 
 - **HTML5**
 - **CSS3**
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Antes de iniciar :checkered_flag:, você precisa ter um navegador web instalado.
+Before starting :checkered_flag:, you need to have a web browser installed.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Execution**
 
-Para visualizar o portfólio:
+To view the portfolio:
 
-1. Clone o projeto
+1. Clone the project
     
     ```bash
     $ git clone https://github.com/gsoaresdz/portfolio.git
     ```
     
-2. Abra o arquivo `index.html` em seu navegador preferido.
+2. Open the **`index.html`** file in your preferred browser.
 
-## **:memo: Observações**
+## **:memo: Notes**
 
-- O portfólio foi desenvolvido para fins de apresentação pessoal e profissional.
-- Pode ser modificado para incluir novas seções ou atualizar as informações conforme necessário.
+- The portfolio was developed for personal and professional presentation purposes.
+- It can be modified to include new sections or update information as needed.
 
-## **:memo: Licença**
+## **:memo: License**
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+This project is under the MIT license. For more details, see the [LICENSE](LICENSE) file.
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
-&#xa0;
-
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
