@@ -21,7 +21,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/wilsonsouto" target="_blank">Author</a>
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 
 <br>
@@ -55,7 +55,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wilsonsouto/portfolio
+$ git clone https://github.com/gsoaresdz/portfolio.git
 
 # Access the project folder
 $ cd portfolio
@@ -73,7 +73,7 @@ $ npm start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-Made with :heart: by [wilsonsouto](https://github.com/wilsonsouto)
+Made with :heart: by [gsoaresdz](https://github.com/gsoaresdz)
 
 &#xa0;
 
