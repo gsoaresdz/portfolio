@@ -1,7 +1,7 @@
 {
   "header": {
-    "name": "Wilson Souto",
-    "description": "Software Developer focused on creating value by solving problems and building solutions.",
+    "name": "Gabriel Soares",
+    "description": "Software Developer committed to delivering innovative solutions and enhancing user experiences.",
     "location": {
       "place": "São Paulo, SP, Brazil",
       "url": "https://www.google.com/maps/place/S%C3%A3o+Paulo"
@@ -9,7 +9,7 @@
     "contact": [
       {
         "label": "Portfolio",
-        "url": "https://wilsonsouto.github.io/portfolio/",
+        "url": "https://gsoaresdz.github.io/portfolio/",
         "icon": "fa-solid fa-briefcase",
         "type": "list",
         "display": {
@@ -19,7 +19,7 @@
       },
       {
         "label": "Email",
-        "url": "mailto:wilsonsouto@outlook.com.br",
+        "url": "mailto:gsoaresdesouza@live.com",
         "icon": "fa-solid fa-envelope",
         "type": "list",
         "display": {
@@ -29,7 +29,7 @@
       },
       {
         "label": "Mobile",
-        "url": "tel:+5511941862376",
+        "url": "tel:+5511991647370",
         "icon": "fa-solid fa-phone",
         "type": "list",
         "display": {
@@ -39,7 +39,7 @@
       },
       {
         "label": "GitHub",
-        "url": "https://github.com/wilsonsouto",
+        "url": "https://github.com/gsoaresdz",
         "icon": "fa-brands fa-github",
         "type": "list",
         "display": {
@@ -49,7 +49,7 @@
       },
       {
         "label": "LinkedIn",
-        "url": "https://linkedin.com/in/wilsonsouto",
+        "url": "https://www.linkedin.com/in/gsoaresdesouza/",
         "icon": "fa-brands fa-linkedin-in",
         "type": "list",
         "display": {
@@ -67,51 +67,50 @@
         }
       }
     ],
-    "image": "profile-picture.jpeg"
+    "image": "profile-picture.jpg"
   },
-  "about": "Dedicated and results-oriented Software Developer with expertise in systems analysis and development. Focused on creating value by solving problems and building solutions. Proven track record of delivering high-quality, efficient software that drives business success in sectors such as technology consulting, AI, and finance.",
+  "about": "Committed and goal-driven Software Developer with expertise in system analysis and development. Passionate about solving challenges and crafting impactful solutions. Proven experience in delivering high-performance software that enhances business growth in fields like technology consulting, AI, and finance.",
   "experience": [
     {
       "company": {
-        "name": "Intervalor",
-        "url": "https://intervalor.com.br/"
+        "name": "Bullla",
+        "url": "https://www.bullla.com.br/"
       },
-      "startDate": "2023",
+      "startDate": "2024",
       "endDate": "Present",
-      "role": "Software Developer",
+      "role": "Senior Software Developer",
       "responsabilities": [
-        "Developed AI-powered chatbots using ASP.NET Core and the OpenAI API, boosting user engagement and automating interactions.",
-        "Developed and maintained scalable and high-performance RESTful APIs, improving system efficiency and reliability.",
-        "Contributed to the operation and continuous optimization of microservices, ensuring seamless data flow and high efficiency in large-scale systems.",
-        "Reduced RabbitMQ queue size by up to 60% with a simple, effective solution, optimizing data flow and improving operational efficiency.",
-        "Administered SQL and NoSQL databases, including MySQL and Redis, to manage and store data efficiently.",
-        "Utilized Jenkins for automated deployment pipelines and Docker for containerization, ensuring efficient deployment and scalability of applications.",
-        "Conducted system analysis and troubleshooting to identify and resolve performance bottlenecks, ensuring optimal operations."
+        "Expanded responsibilities to include regulatory systems for the Central Bank of Brazil (BACEN), ensuring compliance with standards and regulations.",
+        "Leveraged artificial intelligence (AI) to optimize processes, implement innovative solutions, and enhance data-driven decision-making.",
+        "Continued improving authorization systems while implementing AI to improve data validation, automate processes, and detect anomalies for proactive issue resolution.",
+        "Led efforts to modernize regulatory systems, prioritizing functionality, performance, and data security.",
+        "Partnered with Operations, Billing, and other teams to monitor and ensure the smooth functioning of services, proactively preventing potential issues.",
+        "Played a key role in strategic meetings, presenting AI-driven insights and proposing innovative solutions for regulatory and authorization system enhancements."
       ],
       "stacks": [
-        ".NET",
-        "C#",
+        "Java",
+        "Python",
+        "Spring Boot",
+        "Flask",
+        "Django",
+        "Angular",
+        "OCI",
+        "GCP",
+        "Jira",
+        "Git",
+        "Linux",
+        "SQL Oracle",
+        "PL/SQL",
+        "Selenium",
         "Object-Oriented Programming (OOP)",
-        "ASP.NET Core",
-        "Entity Framework (EF) Core",
         "Model-View-Controller (MVC)",
         "Domain-Driven Design (DDD)",
         "Microservices",
         "Event-driven Architecture (EDA)",
-        "REST APIs",
-        "GraphQL",
-        "RabbitMQ",
-        "MySQL",
-        "Elasticsearch",
-        "Redis",
         "Docker",
-        "Kubernetes",
         "Jenkins",
-        "Git",
         "Postman",
-        "Test-Driven Development (TDD)",
-        "Grafana",
-        "Consul"
+        "Test-Driven Development (TDD)"
       ],
       "display": {
         "screen": true,
