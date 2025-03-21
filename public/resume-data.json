@@ -119,35 +119,43 @@
     },
     {
       "company": {
-        "name": "IBM",
-        "url": "https://www.ibm.com/br-pt"
+        "name": "Bullla",
+        "url": "https://www.bullla.com.br/"
       },
       "startDate": "2021",
-      "endDate": "2022",
-      "role": "Developer Intern",
+      "endDate": "2024",
+      "role": "Software Developer",
       "responsabilities": [
-        "Developed innovative solutions using IBM Watson Assistant, IBM Cloud, and IBM Storage, enhancing system efficiency.",
-        "Created clean, maintainable, and scalable software components in C# by applying object-oriented programming principles.",
-        "Enhanced data management and CRUD operations by integrating SQL Server and Entity Framework into ASP.NET Core.",
-        "Built and tested responsive, user-friendly web applications using Angular, TypeScript, HTML, and CSS/SASS, improving user experience and interface design.",
-        "Actively participated in Agile sprint meetings, contributing to planning, execution, and code review processes."
+        "Focused on authorization applications, supporting and implementing all stages of the creation and continuous improvement of microservices.",
+        "Responsible for managing team reporting data and ensuring the communication and functioning of the services.",
+        "Modernized and implemented new solutions to enhance functionality, performance, usability, and data security.",
+        "Ensured data integrity and security during input into databases and communication with internal and external APIs.",
+        "Worked closely with the Operations and Billing team to analyze and resolve bugs or potential issues, ensuring system reliability.",
+        "Actively contributed to meetings and discussions to share innovative ideas and improve the application, collaborating with different teams within the company."
       ],
       "stacks": [
-        "IBM Watson Assistant",
-        "IBM Cloud",
-        "IBM Storage",
-        ".NET",
-        "C#",
+        "Java",
+        "Python",
+        "Spring Boot",
+        "Flask",
+        "OCI",
+        "GCP",
+        "Jira",
+        "Git",
+        "Linux",
+        "SQL Oracle",
+        "PL/SQL",
+        "Selenium",
         "Object-Oriented Programming (OOP)",
-        "ASP.NET Core",
-        "Entity Framework (EF) Core",
         "Model-View-Controller (MVC)",
-        "SQL Server",
-        "Angular",
-        "TypeScript",
+        "Domain-Driven Design (DDD)",
+        "Microservices",
+        "Event-driven Architecture (EDA)",
+        "Docker",
+        "Jenkins",
+        "Postman",
         "HTML",
         "CSS",
-        "SASS",
         "Git",
         "Postman",
         "User Interface (UI)",
@@ -157,12 +165,67 @@
         "screen": true,
         "print": true
       }
+    },
+    {
+      "company": {
+        "name": "Stefanini Brasil",
+        "url": "https://stefanini.com/pt-br"
+      },
+      "startDate": "2019",
+      "endDate": "2021",
+      "role": "Systems Analyst",
+      "responsabilities": [
+        "As a Systems Analyst at a consulting firm, I'm responsible for ensuring the integrity and efficiency of the promotional flow stored in our database, as well as coordinating incident monitoring and conducting technical interventions on Linux and Windows systems and servers. My responsibilities include:",
+        "Promotional Flow Maintenance: I manage and keep updated the promotional flow stored in our database, ensuring that all information is accurate and consistent to ensure the effectiveness of our promotional strategies.",
+        "Incident Monitoring and Resolution: I monitor and resolve technical incidents, working closely with the team to identify and address issues effectively. Technical Interventions: I perform technical interventions on Linux and Windows systems and servers, applying specialized knowledge to ensure system security, performance, and availability.",
+        "Incident Tracking: I stay vigilant with continuous monitoring of incidents related to our systems, promptly identifying and recording any issues for later analysis and swift resolution, ensuring minimal impact on operations.",
+        "Technical Interventions: I conduct technical interventions on Linux and Windows systems and servers, ensuring they are always operational and optimized to support the company's demands. This includes diagnosing and troubleshooting issues, applying security patches, and implementing performance improvements."
+      ],
+      "stacks": [
+        "Linux",
+        "Elasticsearch",
+        "Microsoft Excel",
+        "PL/SQL",
+        "Windows systems"
+      ],
+      "display": {
+        "screen": true,
+        "print": true
+      }
+    },
+    {
+      "company": {
+        "name": "NTT DATA",
+        "url": "https://br.nttdata.com/"
+      },
+      "startDate": "2019",
+      "endDate": "2019",
+      "role": "IT Functional Analyst",
+      "responsabilities": [
+        "I am responsible for managing and implementing Salesforce solutions to support and improve the company's process efficiency. My responsibilities include:",
+        "Managing the Salesforce environment, creating users, defining permissions, and establishing validation rules to ensure data security and integrity.",
+        "Implementing associated technologies, such as Process Builder, Workflows, and reports, to automate and optimize processes.",
+        "Developing reports and loading data to provide valuable insights for decision-making.",
+        "Tracking activities and utilizing agile methodology with Jira to ensure efficient and effective project delivery."
+      ],
+      "stacks": [
+        "Jira",
+        "Salesforce",
+        "Agile Methodologies",
+        "Linux",
+        "Microsoft Excel",
+        "JavaScript"
+      ],
+      "display": {
+        "screen": true,
+        "print": true
+      }
     }
   ],
   "education": {
     "institution": {
-      "name": "FIAP",
-      "url": "https://www.fiap.com.br/"
+      "name": "UNIP",
+      "url": "https://www.unip.br/"
     },
     "startDate": "2021",
     "endDate": "2022",
