@@ -16,25 +16,16 @@ interface Props {
 }
 
 @Component({
-    selector: 'app-education',
-    imports: [
-        CommonModule,
-        SectionHeadingComponent,
-        NavigationLinkComponent,
-        TextElementComponent,
-    ],
-    templateUrl: './education.component.html'
+  selector: 'app-education',
+  standalone: true,
+  imports: [
+    CommonModule,
+    SectionHeadingComponent,
+    NavigationLinkComponent,
+    TextElementComponent,
+  ],
+  templateUrl: './education.component.html'
 })
 export class EducationComponent {
-  education: Props[] = [
-    {
-      institution: {
-        name: data.education.institution.name,
-        url: data.education.institution.url,
-      },
-      startDate: data.education.startDate,
-      endDate: data.education.endDate,
-      degree: data.education.degree,
-    },
-  ];
+  education: Props[] = data.education;
 }
