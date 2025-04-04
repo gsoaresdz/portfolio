@@ -319,28 +319,38 @@
   ],
   "projects": [
     {
-      "name": "Pizzeria Donna",
-      "url": "https://github.com/wilsonsouto/pizzeria-donna",
-      "description": "Discreet chatbot assistance for women victims of domestic violence.",
+      "name": "MovieFlix",
+      "url": "https://github.com/gsoaresdz/movieflix",
+      "description": "The MovieFlix system is a movie catalog.",
       "stacks": [
-        "IBM Watson Assistant",
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "Tailwind CSS"
+        "Java",
+        "Spring Boot",
+        "Spring JPA",
+        "Maven",
+        "Junit",
+        "React",
+        "PostgreSQL",
+        "Heroku"
       ]
     },
     {
-      "name": "File Organizer",
-      "url": "https://github.com/wilsonsouto/file-organizer",
-      "description": "Automates file organization by sorting them into folders based on their extensions.",
-      "stacks": [".NET", "C#"]
+      "name": "DSMovie",
+      "url": "https://github.com/gsoaresdz/dsmovie",
+      "description": "The application consists of a page that displays a paginated list of movies and another page containing a form for rating a movie.",
+      "stacks":    [
+        "Java",
+        "Spring Boot",
+        "Spring JPA",
+        "Maven",
+        "Junit",
+        "H2 Database"
+      ]
     },
     {
-      "name": "Candy Shop",
-      "url": "https://github.com/wilsonsouto/candy-shop",
-      "description": "Console app for managing a candy store's inventory with database integration.",
-      "stacks": [".NET", "C#", "MySQL", "Spectre Console"]
+      "name": "Wallet",
+      "url": "https://github.com/gsoaresdz/wallet",
+      "description": "Performance of a financial asset portfolio, including stocks, ETFs, and REITs.",
+      "stacks": ["Python", "Numpy", "Pandas", "Matplotlib", "Datareader", "yfinance"]
     }
   ]
 }
